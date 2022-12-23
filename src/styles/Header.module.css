@@ -1,0 +1,16 @@
+.bg_color {
+  color: white;
+  background-color: #f55a5a;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+}
